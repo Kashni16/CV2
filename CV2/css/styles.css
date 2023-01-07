@@ -1,0 +1,33 @@
+
+    body{
+        background-color:#FFE1E1;
+ }
+ hr{
+
+    width:10%;
+    border-style:none;
+    border-top-style: dotted;
+    border-top-width: 10px;
+    border-color: grey;
+
+    height: 0px;
+ }
+ h1{
+    color:#382f2f38;
+    font-family: cursive;
+ }
+ h3{
+    color: #90A17D;
+ }
+p{
+    color: #594545;
+}
+li{
+    color: #472D2D;
+}
+td{
+    color: #472D2D;
+}
+form{
+    color: #472D2D;
+}
